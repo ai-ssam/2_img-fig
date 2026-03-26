@@ -1,5 +1,0 @@
-{
-  "name": "일러스트를 피규어로 만드는 프롬프트 빌더 세미나용",
-  "description": "AI 모델(예: Gemini의 Nano Banana)을 사용하여 일러스트에서 피규어 스타일 이미지를 생성하기 위한 상세한 프롬프트를 구성하는 웹 애플리케이션입니다.",
-  "requestFramePermissions": []
-}
